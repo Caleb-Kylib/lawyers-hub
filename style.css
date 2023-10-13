@@ -171,3 +171,15 @@ col-md img{
     align-items: center;
     justify-content: center
 }
+.input-group{
+    font-size: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textarea-group{
+    font-size: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
