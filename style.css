@@ -183,3 +183,9 @@ col-md img{
     align-items: center;
     justify-content: center;
 }
+.Our-team h3{
+ font-size: 42px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
